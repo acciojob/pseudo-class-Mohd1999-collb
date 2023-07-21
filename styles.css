@@ -1,12 +1,11 @@
 /*  your css code here. If applicable */
-p:before{
+div:before{
 	content: "Before Element ";
 	color: rgb(255, 0, 0);
-	font-size: 25px;
-	
+	font-size: 25px;	
 }
 
-p:after{
+div:after{
 	content: " After Element";
 	color: rgb(255, 0, 0);
 	font-size: 25px;
